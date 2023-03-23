@@ -7,5 +7,3 @@
 | Team Management Report  | 1            | https://github.com/kpw6/mywebclass-simulation/issues/9  | To Do       | Lucas       | 3/21/2023   |           | TM       |       |
 | DevOps Readme           | 1            | https://github.com/kpw6/mywebclass-simulation/issues/4  | To Do       | Lucas       | 3/21/2023   |           | DOP      |       |
 | DevOps                  | 3            | https://github.com/kpw6/mywebclass-simulation/issues/2  | To Do       | Kevin/Lucas | 3/21/2023   |           | DOP      |       |
-|                         |              |                                                         |             |             |             |           |          |       |
-|                         |              |                                                         |             |             |             |           |          |       |
